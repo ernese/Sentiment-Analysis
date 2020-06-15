@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Assignment 3 for Social and Information Network Analysis
+Group Assignment for Social and Information Network Analysis
